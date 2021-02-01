@@ -1,0 +1,269 @@
+--- Deck before shuffling ---
+--- Reading Deck ---
+Ace of Clubs
+2 of Clubs
+3 of Clubs
+4 of Clubs
+5 of Clubs
+6 of Clubs
+7 of Clubs
+8 of Clubs
+9 of Clubs
+10 of Clubs
+Jack of Clubs
+Queen of Clubs
+King of Clubs
+Ace of Spades
+2 of Spades
+3 of Spades
+4 of Spades
+5 of Spades
+6 of Spades
+7 of Spades
+8 of Spades
+9 of Spades
+10 of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+Ace of Hearts
+2 of Hearts
+3 of Hearts
+4 of Hearts
+5 of Hearts
+6 of Hearts
+7 of Hearts
+8 of Hearts
+9 of Hearts
+10 of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+2 of Diamonds
+3 of Diamonds
+4 of Diamonds
+5 of Diamonds
+6 of Diamonds
+7 of Diamonds
+8 of Diamonds
+9 of Diamonds
+10 of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
+---Shuffling---
+--- Deck After shuffling ---
+--- Reading Deck ---
+7 of Spades
+3 of Spades
+6 of Clubs
+2 of Clubs
+King of Spades
+7 of Clubs
+Ace of Diamonds
+Jack of Spades
+Jack of Diamonds
+Jack of Clubs
+5 of Diamonds
+Queen of Clubs
+Jack of Hearts
+King of Clubs
+4 of Spades
+3 of Hearts
+9 of Spades
+6 of Diamonds
+8 of Hearts
+Ace of Hearts
+10 of Diamonds
+5 of Spades
+2 of Spades
+Queen of Spades
+9 of Hearts
+2 of Hearts
+Queen of Diamonds
+7 of Diamonds
+2 of Diamonds
+6 of Hearts
+8 of Diamonds
+8 of Spades
+9 of Diamonds
+King of Hearts
+10 of Hearts
+Ace of Clubs
+7 of Hearts
+8 of Clubs
+5 of Hearts
+3 of Clubs
+6 of Spades
+4 of Diamonds
+3 of Diamonds
+4 of Clubs
+10 of Clubs
+Queen of Hearts
+10 of Spades
+5 of Clubs
+King of Diamonds
+Ace of Spades
+4 of Hearts
+9 of Clubs
+Card left: 52
+Dealer drew 7 of Spades and dealing to player Eddie
+-----------
+Dealer drew 3 of Spades and dealing to player Eddie
+-----------
+Dealer drew 6 of Clubs and dealing to player Eddie
+-----------
+Dealer drew 2 of Clubs and dealing to player Eddie
+-----------
+Dealer drew King of Spades and dealing to player Eddie
+-----------
+Dealer drew 7 of Clubs and dealing to player Eddie
+-----------
+Dealer drew Ace of Diamonds and dealing to player Eddie
+-----------
+Dealer drew Jack of Spades and dealing to player Eddie
+-----------
+Dealer drew Jack of Diamonds and dealing to player Eddie
+-----------
+Dealer drew Jack of Clubs and dealing to player Eddie
+-----------
+Dealer drew 5 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew Queen of Clubs and dealing to player Eddie
+-----------
+Dealer drew Jack of Hearts and dealing to player Eddie
+-----------
+Dealer drew King of Clubs and dealing to player Eddie
+-----------
+Dealer drew 4 of Spades and dealing to player Eddie
+-----------
+Dealer drew 3 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 9 of Spades and dealing to player Eddie
+-----------
+Dealer drew 6 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 8 of Hearts and dealing to player Eddie
+-----------
+Dealer drew Ace of Hearts and dealing to player Eddie
+-----------
+Dealer drew 10 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 5 of Spades and dealing to player Eddie
+-----------
+Dealer drew 2 of Spades and dealing to player Eddie
+-----------
+Dealer drew Queen of Spades and dealing to player Eddie
+-----------
+Dealer drew 9 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 2 of Hearts and dealing to player Eddie
+-----------
+Dealer drew Queen of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 7 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 2 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 6 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 8 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 8 of Spades and dealing to player Eddie
+-----------
+Dealer drew 9 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew King of Hearts and dealing to player Eddie
+-----------
+Dealer drew 10 of Hearts and dealing to player Eddie
+-----------
+Dealer drew Ace of Clubs and dealing to player Eddie
+-----------
+Dealer drew 7 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 8 of Clubs and dealing to player Eddie
+-----------
+Dealer drew 5 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 3 of Clubs and dealing to player Eddie
+-----------
+Dealer drew 6 of Spades and dealing to player Eddie
+-----------
+Dealer drew 4 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 3 of Diamonds and dealing to player Eddie
+-----------
+Dealer drew 4 of Clubs and dealing to player Eddie
+-----------
+Dealer drew 10 of Clubs and dealing to player Eddie
+-----------
+Dealer drew Queen of Hearts and dealing to player Eddie
+-----------
+Dealer drew 10 of Spades and dealing to player Eddie
+-----------
+Dealer drew 5 of Clubs and dealing to player Eddie
+-----------
+Dealer drew King of Diamonds and dealing to player Eddie
+-----------
+Dealer drew Ace of Spades and dealing to player Eddie
+-----------
+Dealer drew 4 of Hearts and dealing to player Eddie
+-----------
+Dealer drew 9 of Clubs and dealing to player Eddie
+-----------
+Card left: 0
+The deck is empty and no card to deal.
+--- Reading Player Hand ---
+7 of Spades
+3 of Spades
+6 of Clubs
+2 of Clubs
+King of Spades
+7 of Clubs
+Ace of Diamonds
+Jack of Spades
+Jack of Diamonds
+Jack of Clubs
+5 of Diamonds
+Queen of Clubs
+Jack of Hearts
+King of Clubs
+4 of Spades
+3 of Hearts
+9 of Spades
+6 of Diamonds
+8 of Hearts
+Ace of Hearts
+10 of Diamonds
+5 of Spades
+2 of Spades
+Queen of Spades
+9 of Hearts
+2 of Hearts
+Queen of Diamonds
+7 of Diamonds
+2 of Diamonds
+6 of Hearts
+8 of Diamonds
+8 of Spades
+9 of Diamonds
+King of Hearts
+10 of Hearts
+Ace of Clubs
+7 of Hearts
+8 of Clubs
+5 of Hearts
+3 of Clubs
+6 of Spades
+4 of Diamonds
+3 of Diamonds
+4 of Clubs
+10 of Clubs
+Queen of Hearts
+10 of Spades
+5 of Clubs
+King of Diamonds
+Ace of Spades
+4 of Hearts
+9 of Clubs
